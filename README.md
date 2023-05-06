@@ -1,7 +1,5 @@
 Bölüm Sonu Çalışması
 
-<title>Elif Şiranlı Web Site</title>
-
 <h1>Elif Şiranlı</h1>
 
 <p>19 yaşındayım aynı anda çalışıyor ve okuyorum.</p>
